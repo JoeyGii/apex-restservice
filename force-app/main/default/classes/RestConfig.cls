@@ -1,3 +1,6 @@
+/*
+ @author: Joey G ii
+  */
 @SuppressWarnings('PMD.ApexCRUDViolation')
 public without sharing class RestConfig {
   public enum ControllerResource {

@@ -1,3 +1,6 @@
+/*
+ @author: Joey G ii
+  */
 @RestResource(urlMapping='/joe-gillick/*')
 global without sharing class RestController {
   static Map<String, String> params;

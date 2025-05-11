@@ -1,3 +1,6 @@
+/*
+ @author: Joey G ii
+  */
 public without sharing class RestStringUtil {
   public static final String ID_PARAM = 'id';
   public static final String TODO = 'TODO';
